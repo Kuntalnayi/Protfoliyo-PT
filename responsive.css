@@ -1,0 +1,50 @@
+
+@media only screen and (min-width:0px) and (max-width:440px) {
+    
+    .home-img img{
+      width: 100%;
+      margin-left: 0;
+    }
+    .about-img img{
+         width: 100%;
+    }
+    .sub .tab-links{
+      margin-right: 30px;
+  }
+  .card1{
+    max-width: 100% !important;
+  }
+  form button{
+       align-items: center;
+  }
+  
+}
+@media only screen and (min-width:450px) and (max-width:762px) {
+    
+     .card1{
+        max-width: 100% !important;
+     }
+     form button{
+       align-items: center;
+     }
+
+
+
+}
+
+@media only screen and (min-width:762px) and (max-width:998px) {
+    
+       .home-img img{
+         width: 100%;
+         margin-left: 0;
+       }
+       .about-img img{
+         width: 100%;
+       }
+       .sub .tab-links{
+        margin-right: 20px;
+    }
+
+    
+    
+}
